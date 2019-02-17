@@ -14,10 +14,17 @@ ul{
 
 li{
   list-style: none;
-  padding: 20px;
+  padding: 10px;
   flex-direction: row;
 }
 
 .otherside{
   margin-left: auto;
+}
+
+.tacos{
+  max-width:94%;
+  height: auto;
+  padding-left: 3%;
+  padding-right: 3%;
 }
