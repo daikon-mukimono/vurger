@@ -27,4 +27,17 @@ li{
   height: auto;
   padding-left: 3%;
   padding-right: 3%;
+  border-radius: 50px;
+}
+
+
+
+/* text selectors */
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
 }
